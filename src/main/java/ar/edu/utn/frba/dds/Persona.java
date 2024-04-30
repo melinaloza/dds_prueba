@@ -1,3 +1,5 @@
+package ar.edu.utn.frba.dds;
+
 public class Persona {
   int edad;
   int cantidadMateriasCursadas;
